@@ -1,8 +1,6 @@
 # Digitips - The Digitial Literacy App
 
-Digitips is a basic Android app designed to teach users the basics of digital literacy in an increasingly internet-oriented world. It is coded in Dart using the Flutter framework and is published on the Google Play Store for download.
-
-https://play.google.com/store/apps/details?id=omoru.com.digitips_app&hl=en_US
+Digitips is a basic Android app designed to teach users the basics of digital literacy in an increasingly internet-oriented world. It is coded in Dart using the Flutter framework and is published on the Google Play Store.
 
 ## Description
 
